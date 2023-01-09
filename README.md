@@ -3,6 +3,7 @@
 This Landing Page is not responsive, the design slicing by me using React and Tailwind css. If you are interested to making the responsive Im really appreciate it.
 
 Landing Page Link: https://www.figma.com/community/file/1148947483588050590
+
 Slicing by: @irfanmqrb
 
 
