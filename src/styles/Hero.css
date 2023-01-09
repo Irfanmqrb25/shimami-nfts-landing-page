@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oxanium:wght@400;600;700&display=swap');
+
+/* Navbar styles */
+.brand {
+    font-family: 'Oxanium', cursive;
+}
+
+.nav-list {
+    font-family: 'Oxanium', cursive;
+    font-weight: 400;
+}
+
+.bg-list {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%);
+    backdrop-filter: blur(20.8333px);
+}
+
+.bg-button-nav {
+    background: #AD1AAF;
+    font-family: 'Oxanium', cursive;
+}
+
+.small-box1,
+.small-box2 {
+    display: flex;
+    width: 15px;
+    height: 30px;
+    background-color: #140C1F;
+    margin-top: 5px;
+    position: absolute;
+}
+
+.small-box-inside1,
+.small-box-inside2 {
+    width: 3px;
+    height: 70%;
+    background-color: #AD1AAF;
+    margin: auto;
+}
+
+.small-box1 {
+    right: 138px;
+}
+
+.small-box2 {
+    right: 280px;
+}
+
+.text-button-nav {
+    font-size: 14px;
+}
+
+/* End Navbar styles */
+
+.heading-text h1 {
+    font-family: 'Oxanium', cursive;
+    font-weight: 600;
+}
+
+.heading-text p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.card-heading {
+    background: linear-gradient(160.61deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 101.7%);
+    border-width: 2.5px 0px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(17.915px);
+    border-radius: 41.6667px;
+}
+
+.card-heading>div>h5,
+p {
+    font-family: 'Oxanium', cursive;
+}
+
+.secondary-button {
+    background: rgba(173, 26, 175, 0.05);
+    border: 1px solid #AD1AAF;
+}
+
+.secondary-button:hover {
+    background-color: #AD1AAF;
+}
+
+.small-box3,
+.small-box4 {
+    display: flex;
+    width: 15px;
+    height: 30px;
+    background-color: #140C1F;
+    margin-top: 5px;
+    position: absolute;
+}
+
+.small-box5,
+.small-box6 {
+    margin-top: 8px;
+}
+
+.small-box3 {
+    left: 70px;
+}
+
+.small-box4 {
+    left: 199px;
+}
+
+.card-heading-left {
+    right: 350px;
+}
+
+.bg-custom-hero {
+    background: rgb(56, 15, 65);
+    background: radial-gradient(circle, rgba(56, 15, 65, 1) 0%, rgba(20, 12, 31, 1) 31%);
+}

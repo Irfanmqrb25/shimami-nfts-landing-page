@@ -1,0 +1,23 @@
+.card-wallet {
+    background: linear-gradient(147.75deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+}
+
+.image-container {
+    background: linear-gradient(147.75deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+    backdrop-filter: blur(10px);
+}
+
+.bg-custom-wallet {
+    background: rgb(20, 12, 31);
+    background: radial-gradient(circle, rgba(20, 12, 31, 1) 31%, rgba(20, 12, 31, 1) 63%, rgba(62, 15, 70, 1) 100%);
+}
+
+.bg-text-custom {
+    background: #FFFFFF;
+    background: linear-gradient(to right, #FFFFFF 0%, #AD1AAF 70%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+}

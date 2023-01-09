@@ -1,0 +1,41 @@
+.carousel {
+    transform-style: preserve-3d;
+}
+
+.card {
+    position: absolute;
+    transform-style: preserve-3d;
+    transition: 1s;
+}
+
+.card1 {
+    transform: translateX(0) translateZ(0);
+}
+
+.card2 {
+    transform: translateX(-63%) translateZ(-50px) scale(0.88);
+    z-index: 10;
+}
+
+.card3 {
+    transform: translateX(63%) translateZ(-50px) scale(0.88);
+    z-index: 10;
+}
+
+.card4 {
+    transform: translateX(-115%) translateZ(-50px) scale(0.75);
+    z-index: 1;
+}
+
+.card5 {
+    transform: translateX(115%) translateZ(-50px) scale(0.75);
+    z-index: 1;
+}
+
+.card6 {
+    transform: translateX(-150%) translateZ(-50px) scale(0.6);
+}
+
+.card7 {
+    transform: translateX(150%) translateZ(-50px) scale(0.6);
+}

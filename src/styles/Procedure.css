@@ -1,0 +1,9 @@
+.card-procedure {
+    background: linear-gradient(147.75deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+    backdrop-filter: blur(10px);
+}
+
+.bg-procedure {
+    background: rgb(56, 15, 65);
+    background: radial-gradient(circle, rgba(56, 15, 65, 1) 2%, rgba(24, 12, 35, 1) 20%, rgba(20, 12, 31, 1) 100%);
+}

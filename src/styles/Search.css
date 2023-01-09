@@ -1,0 +1,4 @@
+.bg-search {
+    background: rgb(56, 15, 65);
+    background: radial-gradient(circle, rgba(56, 15, 65, 1) 0%, rgba(24, 12, 35, 1) 20%, rgba(20, 12, 31, 1) 100%);
+}
